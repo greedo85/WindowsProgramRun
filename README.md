@@ -1,1 +1,1 @@
-# repo
+This is program that runs other windows programs or console commands. In config first 2 lines are fixed and can be used to define which broweser and mail program to run. Third button one can be defined by user-thrid line in config.txt is to set button name, fourth to define action. 
