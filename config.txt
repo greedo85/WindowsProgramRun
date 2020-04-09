@@ -1,4 +1,0 @@
-C:\\Program Files\\Mozilla Firefox\\firefox.exe
-C:\\Program Files (x86)\\Mozilla Thunderbird\\thunderbird.exe
-Moj Komputer
-explorer
